@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hola 👋, soy <a href="https://tuweb.com" target="_blank">Adrián García Caballero</a></h1>
-<h3 align="center">Un apasionado Desarrollador Frontend / Backend / Full Stack de [Tu País] 🚀</h3>
+<h3 align="center">Un apasionado Desarrollador Frontend / Backend / Full Stack de Euskadi 🚀</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tu-perfil">
