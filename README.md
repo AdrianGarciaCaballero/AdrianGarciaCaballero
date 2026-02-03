@@ -63,12 +63,6 @@ No pongas todo lo que has tocado una vez. Pon lo que dominas.
   </a>
 </div>
 
----
-
-### ✍️ Últimos Posts / Videos
-* [Cómo optimizar React en 2024]()
-* [Mi experiencia pasando de Junior a Senior]()
-* [Entendiendo Docker de una vez por todas]()
 
 ---
 
